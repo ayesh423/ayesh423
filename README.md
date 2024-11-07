@@ -5,15 +5,7 @@
 - 📫 How to reach me ayeshumayanga467@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: No fun facts!
-
-- 👋 Hi, I’m @MenukaSandeepa
-- 👀 I’m interested in Web Application development and mobile application development and bit of wordpress as well.
-- 🌱 I’m currently learning React , React Native , Wordpress
-- 💞️ I’m looking to collaborate on Web application developemt and mobile application development
-- 📫 How to reach me lahirumenuka259@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: No fun facts!
-
+- 
 ## Olá, meu nome é {seu nome}!
 
 ### ⚙️ GitHub Analytics
