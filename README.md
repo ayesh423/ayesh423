@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayesh423
 - 👀 I’m interested in Web Application development and mobile application development and bit of wordpress as well.
-- 🌱 I’m currently learning React , React Native , Wordpress , Flutter
+- 🌱 I’m currently learning React , React Native, Flutter ,python,java,C++
 - 💞️ I’m looking to collaborate on Web application developemt and mobile application development
 - 📫 How to reach me ayeshumayanga467@gmail.com
 - 😄 Pronouns: He/Him
