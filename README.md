@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on Web application developemt and mobile application development
 - 📫 How to reach me ayeshumayanga467@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: No fun facts!
-- 
-## Olá, meu nome é {ayesh423}!
+
 
 ### ⚙️ GitHub Analytics
 
