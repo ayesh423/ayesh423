@@ -15,6 +15,8 @@ Hi, I’m @ayesh<br>👀 I’m interested in Machine Learning , Computer Vision 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayesh423&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+ ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayesh423&theme=react-dark&hide_border=true&area=true) 
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayesh423&icon=0&color=0)](https://visitcount.itsvg.in)
